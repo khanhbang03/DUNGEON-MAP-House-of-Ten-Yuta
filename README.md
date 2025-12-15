@@ -1,37 +1,38 @@
 # DUNGEON-MAP-House-of-Ten-Yuta
+<br>
 ╔════════════════════════════════════════════╗
-║        🏰 DUNGEON: HOUSE OF TEN YUTA       ║
+║        🏰 DUNGEON: HOUSE OF TEN YUTA       ║<br>
 ╚════════════════════════════════════════════╝
 
-        ┌─────────────────────────────┐
-        │ 🟫 TẦNG 2 – HÀNH LANG CỔ     │
-        │ 👤 Yuta #1 #2 #3             │
-        │ 🐲 QUÁI: Whisper Ghost       │
-        │ ⚔ Skill check: Mind Resist  │
+        ┌─────────────────────────────┐<br>
+        │ 🟫 TẦNG 2 – HÀNH LANG CỔ     │<br>
+        │ 👤 Yuta #1 #2 #3             │<br>
+        │ 🐲 QUÁI: Whisper Ghost       │<br>
+        │ ⚔ Skill check: Mind Resist  │<br>
         └──────────────┬──────────────┘
                        │ Cầu thang gãy
                        ▼
 
-┌──────────────────────────────────────────────┐
-│ 🟦 PHÒNG BÊN NGOÀI – LOBBY OF FATE            │
-│ 👤 Yuta #4 #5 #6                              │
-│ 🧙 NPC: Mrudav Mehta (Quest Giver)            │
-│ 🐺 QUÁI: Shadow Wolves x2                     │
-└───────────────┬──────────────────────────────┘
-                │
+┌──────────────────────────────────────────────┐<br>
+│ 🟦 PHÒNG BÊN NGOÀI – LOBBY OF FATE            │<br>
+│ 👤 Yuta #4 #5 #6                              │<br>
+│ 🧙 NPC: Mrudav Mehta (Quest Giver)            │<br>
+│ 🐺 QUÁI: Shadow Wolves x2                     │<br>
+└───────────────┬──────────────────────────────┘<br>
+                │<br>
       ┌─────────▼─────────┐
-      │ 🟩 PHÒNG BÊN TRONG │
-      │ 🛏 HEALING ALTAR   │
-      │ 👤 Yuta #7 #8     │
-      │ 🐲 MINI-BOSS:     │
-      │    Bed Mimic      │
-      └───────┬───────┬──┘
-              │       │
-   ┌──────────▼───┐ ┌─▼────────────────┐
-   │ 🟥 WC HELL   │ │ 🟨 PHÒNG CHỊ GÁI  │
-   │ 🚽 FINAL BOSS│ │ 📦 TREASURE ROOM │
-   │  "Toilet God"│ │ 👤 Yuta #10      │
-   │ 👤 Yuta #9   │ │ 🐍 Quái: Snack   │
+      │ 🟩 PHÒNG BÊN TRONG │<br>
+      │ 🛏 HEALING ALTAR   │<br>
+      │ 👤 Yuta #7 #8     │<br>
+      │ 🐲 MINI-BOSS:     │<br>
+      │    Bed Mimic      │<br>
+      └───────┬───────┬──┘<br>
+              │       │<br>
+   ┌──────────▼───┐ ┌─▼────────────────┐<br>
+   │ 🟥 WC HELL   │ │ 🟨 PHÒNG CHỊ GÁI  │<br>
+   │ 🚽 FINAL BOSS│ │ 📦 TREASURE ROOM │<br>
+   │  "Toilet God"│ │ 👤 Yuta #10      │<br>
+   │ 👤 Yuta #9   │ │ 🐍 Quái: Snack   │<br>
    └──────────────┘ └──────────────────┘
    
 | Yuta | Lv | HP  | Class     | Skill chính             |
@@ -114,6 +115,7 @@ Ending
 🔴 Bad Ending: Toilet God nuốt nhà
 
 🗣️ ĐỐI THOẠI NHÂN VẬT (SCRIPT IN-GAME)
+<br>
 🧙 NPC – Mrudav Mehta (Quest Giver)
 Mrudav: "Tôi chỉ định thăm nhà thôi…
          tại sao lại có thanh máu trên đầu tôi?"
@@ -155,6 +157,7 @@ Yuta #10: "Boss chết chưa?
           Tôi loot trước nhé."
 
 🚽 FINAL BOSS – TOILET GOD
+<br>
 TOILET GOD:
 "CON NGƯỜI KHÔNG TÔN TRỌNG WC…
  PHẢI TRẢ GIÁ!"

@@ -115,7 +115,7 @@ Ending
 🔴 Bad Ending: Toilet God nuốt nhà
 
 # 🗣️ ĐỐI THOẠI NHÂN VẬT (SCRIPT IN-GAME)
-<br><br><br>
+
 🧙 NPC – Mrudav Mehta (Quest Giver)
 Mrudav: "Tôi chỉ định thăm nhà thôi…
          tại sao lại có thanh máu trên đầu tôi?"

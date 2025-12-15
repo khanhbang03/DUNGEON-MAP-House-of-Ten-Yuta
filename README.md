@@ -48,7 +48,7 @@
 | #9   | 9  | 180 | Berserker | *Rage Smash*            |
 | #10  | 6  | 125 | Thief     | *Steal Loot*            |
 
-🐲 DANH SÁCH QUÁI
+# 🐲 DANH SÁCH QUÁI
 
 🐺 Shadow Wolves – đánh theo bầy
 
@@ -64,7 +64,7 @@ Skill: Splash Doom, Odor Curse
 
 Weakness: Tinh thần đồng đội
 
-📜 CỐT TRUYỆN RPG – The Ten Who Visited
+# 📜 CỐT TRUYỆN RPG – The Ten Who Visited
 
 Khi Mrudav Mehta bước vào ngôi nhà của Tạ Tùng Dương,
 anh không hề biết nơi này đã bị Dungeon hóa.
@@ -94,7 +94,7 @@ Mrudav Mehta hoàn thành quest.
 🎖️ Achievement unlocked:
 “10 Yuta – 1 Ngôi Nhà – Không Ai Bỏ Cuộc”
 
-📜 KỊCH BẢN TỔNG QUAN (GAME DESIGN DOC – RÚT GỌN)
+# 📜 KỊCH BẢN TỔNG QUAN (GAME DESIGN DOC – RÚT GỌN)
 
 Cốt lõi gameplay
 
@@ -114,8 +114,8 @@ Ending
 
 🔴 Bad Ending: Toilet God nuốt nhà
 
-🗣️ ĐỐI THOẠI NHÂN VẬT (SCRIPT IN-GAME)
-<br>
+# 🗣️ ĐỐI THOẠI NHÂN VẬT (SCRIPT IN-GAME)
+<br><br><br>
 🧙 NPC – Mrudav Mehta (Quest Giver)
 Mrudav: "Tôi chỉ định thăm nhà thôi…
          tại sao lại có thanh máu trên đầu tôi?"

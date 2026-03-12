@@ -1,4 +1,7 @@
 # DUNGEON-MAP-House-of-Ten-Yuta
+<img width="1024" height="1536" alt="The house of ten Yuta Takaya" src="https://github.com/user-attachments/assets/898a7d9c-8bd1-4faa-9e4e-def295a575ef" />
+<img width="842" height="1264" alt="The house of ten Yuta Takaya with the Wrong way to use healing magic" src="https://github.com/user-attachments/assets/fff0c73b-2e75-4326-9c00-46462ba75b1c" />
+
 <br>
 ╔════════════════════════════════════════════╗
 ║        🏰 DUNGEON: HOUSE OF TEN YUTA       ║<br>
